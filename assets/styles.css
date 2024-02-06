@@ -1,6 +1,9 @@
 body {
-    background-color: rgb(125, 185, 29);
+    background-color: rgb(156, 213, 221);
   }
   h1 {
-    color: darkslategrey;
-  }
+    color: blue;
+  }
+  p {
+  color:rgba(72, 72, 180, 0.877);
+  }
